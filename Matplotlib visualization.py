@@ -15,7 +15,7 @@ get_ipython().run_line_magic('matplotlib.inline', '')
 # In[28]:
 
 
-gdp_data=pd.read_csv("C:\\Users\\Dakon\\Desktop\\Datasets\\Lesson 3\\north_america.csv") #to load the dataset from my local directory
+gdp_data=pd.read_csv("north_america.csv") #to load the dataset from my local directory
 
 
 # In[29]:
